@@ -3,12 +3,9 @@ package org.launchcode.codingevents.models;
 import org.dom4j.tree.AbstractEntity;
 
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
-import java.util.Objects;
 
 /**
  * Created by Chris Bay
